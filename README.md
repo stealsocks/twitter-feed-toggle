@@ -1,2 +1,2 @@
 # twitter-feed-toggle
-A browser extension to fight procrastination by disabling the timeline on Twitter.
+A browser extension to toggle your Twitter timeline on or off.
