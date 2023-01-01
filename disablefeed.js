@@ -10,6 +10,7 @@ const observer = new MutationObserver(mutations => {
                 try{
                     section.style.opacity = 0
                     section.style.transition = "opacity 0.5s ease"
+                     sec.style.pointerEvents = "none"
                   // section.innerHTML = "<p>&nbsp;</p>";
                 }
 

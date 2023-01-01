@@ -8,10 +8,12 @@
 
                     if(confirm("are you sure you want to enable your feed?") == true)
                      sec.style.opacity = 1
+                 sec.style.pointerEvents = "auto"
                     }
 
                 else{
                     sec.style.opacity = 0
+                    sec.style.pointerEvents = "none"
                 }
             }
         }
