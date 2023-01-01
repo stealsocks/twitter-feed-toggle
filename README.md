@@ -1,2 +1,2 @@
 # twitter-feed-toggle
-A browser extension to toggle your Twitter timeline on or off.
+A browser extension to toggle your Twitter timeline to hidden or visible.
